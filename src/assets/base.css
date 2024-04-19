@@ -1,0 +1,13 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  font-weight: normal;
+}
+
+body {
+  min-height: 100vh;
+  font-family: Inter, 'Segoe UI', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+  font-size: 13px;
+}
