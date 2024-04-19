@@ -4,7 +4,7 @@
 
 Ссылка на сайт: https://stasokulov.github.io/international-service-management/
 
-Ссылка на текст ТЗ: https://github.com/stasokulov/International-service-management/blob/main/src/test-task-text.md
+Ссылка на текст ТЗ: https://github.com/stasokulov/international-service-management/blob/main/src/test-task-text.md
 
 ## Project Setup
 
