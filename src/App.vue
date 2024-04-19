@@ -9,7 +9,7 @@ import ThePictureList from '@/components/ThePictureList.vue'
       <p>Технологии: Vue 3, Pinia, TypeScript, lazy loading, оптимизация загрузки изображений</p>
       <p>
         <a
-          href="https://github.com/stasokulov/international-service-management-test-task/blob/main/src/test-task-text.md"
+          href="https://github.com/stasokulov/international-service-management/blob/main/src/test-task-text.md"
           target="_blank"
           rel="noopener"
           >Текст тестового задания</a
