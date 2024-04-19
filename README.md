@@ -2,7 +2,7 @@
 
 Тестовое задание для International Service Management
 
-Ссылка на сайт:
+Ссылка на сайт: https://stasokulov.github.io/international-service-management-test-task/
 
 Ссылка на текст ТЗ: https://github.com/stasokulov/international-service-management-test-task/blob/main/src/test-task-text.md
 
